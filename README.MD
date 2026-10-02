@@ -1,4 +1,4 @@
-### HỌ VÀ TÊN: nGUYỄN vĂN TIẾN
+### HỌ VÀ TÊN: NGUYỄN VĂN TIẾN
 
 ### MÃ SINH VIÊN: 24810310274
 
