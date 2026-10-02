@@ -13,15 +13,15 @@ Hai biến có thể cùng tham chiếu đến một đối tượng.
 Ví dụ: class, array, string, object.
 -----
 ### Câu 2: Phân biệt init và set
-set:
+- set:
 Cho phép gán giá trị cho thuộc tính.
 Có thể thay đổi giá trị sau khi tạo đối tượng.
 Ví dụ: sv.Name = "An"; sau đó có thể đổi thành sv.Name = "Bình";.
-init:
+- init:
 Chỉ cho phép gán giá trị khi khởi tạo đối tượng.
 Không thể thay đổi giá trị sau khi khởi tạo.
 Giúp hạn chế việc thay đổi dữ liệu ngoài ý muốn.
-Ví dụ: dùng init cho Id, mã sinh viên, mã tài khoản.
+- Ví dụ: dùng init cho Id, mã sinh viên, mã tài khoản.
 -----
 ### Câu 3: Phân biệt virtual và override
 - Virtual:
@@ -41,10 +41,10 @@ Kết quả gọi phương thức của Dog.
 Đây là tính đa hình.
 -----
 ### Câu 4: Tại sao static không truy xuất thông qua Object?
-static thuộc về Class, không thuộc về Object.
-Chỉ có một bản static dùng chung cho toàn bộ Class.
-Không cần tạo Object bằng new để sử dụng thành phần static.
-Truy xuất static thông qua tên Class.
-Ví dụ: Student.Count.
-Thành phần không static thuộc về từng Object.
-Vì vậy, static và Object có phạm vi sử dụng khác nhau.
+- static thuộc về Class, không thuộc về Object.
+- Chỉ có một bản static dùng chung cho toàn bộ Class.
+- Không cần tạo Object bằng new để sử dụng thành phần static.
+- Truy xuất static thông qua tên Class.
+- Ví dụ: Student.Count.
+- Thành phần không static thuộc về từng Object.
+- Vì vậy, static và Object có phạm vi sử dụng khác nhau.
