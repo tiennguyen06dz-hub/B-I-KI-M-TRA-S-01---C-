@@ -1,0 +1,16 @@
+D:\Baikiemtraso1\BAI3\TECH MART PRODUCT MANAGER\obj\Debug\net10.0-windows\TECH MART PRODUCT MANAGER.csproj.GenerateResource.cache
+D:\Baikiemtraso1\BAI3\TECH MART PRODUCT MANAGER\obj\Debug\net10.0-windows\TECH MART PRODUCT MANAGER.GeneratedMSBuildEditorConfig.editorconfig
+D:\Baikiemtraso1\BAI3\TECH MART PRODUCT MANAGER\obj\Debug\net10.0-windows\TECH MART PRODUCT MANAGER.AssemblyInfoInputs.cache
+D:\Baikiemtraso1\BAI3\TECH MART PRODUCT MANAGER\obj\Debug\net10.0-windows\TECH MART PRODUCT MANAGER.AssemblyInfo.cs
+D:\Baikiemtraso1\BAI3\TECH MART PRODUCT MANAGER\obj\Debug\net10.0-windows\TECH MART PRODUCT MANAGER.csproj.CoreCompileInputs.cache
+D:\Baikiemtraso1\BAI3\TECH MART PRODUCT MANAGER\bin\Debug\net10.0-windows\TECH MART PRODUCT MANAGER.exe
+D:\Baikiemtraso1\BAI3\TECH MART PRODUCT MANAGER\bin\Debug\net10.0-windows\TECH MART PRODUCT MANAGER.deps.json
+D:\Baikiemtraso1\BAI3\TECH MART PRODUCT MANAGER\bin\Debug\net10.0-windows\TECH MART PRODUCT MANAGER.runtimeconfig.json
+D:\Baikiemtraso1\BAI3\TECH MART PRODUCT MANAGER\bin\Debug\net10.0-windows\TECH MART PRODUCT MANAGER.dll
+D:\Baikiemtraso1\BAI3\TECH MART PRODUCT MANAGER\bin\Debug\net10.0-windows\TECH MART PRODUCT MANAGER.pdb
+D:\Baikiemtraso1\BAI3\TECH MART PRODUCT MANAGER\obj\Debug\net10.0-windows\TechMartProductManager.Form1.resources
+D:\Baikiemtraso1\BAI3\TECH MART PRODUCT MANAGER\obj\Debug\net10.0-windows\TECH MART PRODUCT MANAGER.dll
+D:\Baikiemtraso1\BAI3\TECH MART PRODUCT MANAGER\obj\Debug\net10.0-windows\refint\TECH MART PRODUCT MANAGER.dll
+D:\Baikiemtraso1\BAI3\TECH MART PRODUCT MANAGER\obj\Debug\net10.0-windows\TECH MART PRODUCT MANAGER.pdb
+D:\Baikiemtraso1\BAI3\TECH MART PRODUCT MANAGER\obj\Debug\net10.0-windows\TECH MART PRODUCT MANAGER.genruntimeconfig.cache
+D:\Baikiemtraso1\BAI3\TECH MART PRODUCT MANAGER\obj\Debug\net10.0-windows\ref\TECH MART PRODUCT MANAGER.dll

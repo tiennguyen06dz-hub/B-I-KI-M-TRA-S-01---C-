@@ -1,0 +1,14 @@
+.vs/
+**/.vs/
+
+bin/
+**/bin/
+
+obj/
+**/obj/
+
+.vscode/
+.idea/
+
+*.user
+*.suo
